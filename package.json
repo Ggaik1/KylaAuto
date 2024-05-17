@@ -1,0 +1,20 @@
+{
+  "name": "kylaaut",
+  "version": "1.0.0",
+  "description": "Automate Testing Scenarios for Kyla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypressOpen": "cypress open"
+  },
+  "keywords": [
+    "Test",
+    "Automation",
+    "e2e"
+  ],
+  "author": "Gagik Asatryan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  }
+}
