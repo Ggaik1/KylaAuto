@@ -1,0 +1,10 @@
+{
+    "title": "Book Appointment",
+    "location": "San Jose - Blossom Hill Rd.",
+    "address": "1375 Blossom Hill Rd. #49, San Jose, CA...",
+    "stateAddress": "1375 Blossom Hill Rd. #49, San Jose, CA 95118",
+    "phoneNumber": "(408) 645-7073",
+    "error": "Please enter reason for visit",
+    "textBoxInfo": "Explain your reason (up to 100 characters)",
+    "textBoxReason": "My only reason is to test this"
+}
